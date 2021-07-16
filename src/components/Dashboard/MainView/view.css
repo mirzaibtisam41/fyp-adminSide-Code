@@ -1,0 +1,39 @@
+.card-items0 {
+    border-bottom: 7px solid rgba(255, 0, 0, 0.7)!important;
+    color: rgba(255, 0, 0, 0.7);
+}
+
+.card-items1 {
+    border-bottom: 7px solid rgba(0, 0, 255, 0.7)!important;
+    color: rgba(0, 0, 255, 0.7);
+}
+
+.card-items2 {
+    border-bottom: 7px solid rgb(255, 205, 86)!important;
+    color: rgb(255, 205, 86);
+}
+
+.card-items3 {
+    border-bottom: 7px solid rgb(75, 192, 192)!important;
+    color: rgb(75, 192, 192);
+}
+
+.card-items6 {
+    border-bottom: 7px solid rgba(158, 24, 24, 0.7)!important;
+    color: rgba(158, 24, 24, 0.7);
+}
+
+.card-items7 {
+    border-bottom: 7px solid rgba(105, 105, 241, 0.7)!important;
+    color: rgba(105, 105, 241, 0.7);
+}
+
+.card-items5 {
+    border-bottom: 7px solid rgb(165, 132, 54)!important;
+    color: rgb(165, 132, 54);
+}
+
+.card-items4 {
+    border-bottom: 7px solid rgb(40, 129, 129)!important;
+    color: rgb(40, 129, 129);
+}

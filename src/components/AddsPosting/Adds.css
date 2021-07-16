@@ -1,0 +1,8 @@
+.active {
+    background-color: #343a40!important;
+}
+
+#left-tabs-example-tabpane-first, #left-tabs-example-tabpane-second {
+    background-color: white!important;
+    color: black!important;
+}

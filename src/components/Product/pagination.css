@@ -1,0 +1,37 @@
+.paginationBttns {
+    width: 100%;
+    height: 30px;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.paginationBttns a {
+    padding: 8px;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid #2b2eff;
+    color: #2b2eff;
+    cursor: pointer;
+}
+
+.paginationBttns a:hover {
+    color: white;
+    background-color: #2b2eff;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.activeBttns a {
+    color: white!important;
+    background-color: #2b2eff;
+}
+
+.avatar {
+    height: 60px!important;
+}
+
+.MuiBox-root-7 {
+    padding-bottom: 1px!important;
+}

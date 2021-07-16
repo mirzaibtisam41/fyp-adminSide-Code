@@ -1,0 +1,10 @@
+.dashboard {
+  min-height: 100vh;
+}
+
+@media screen and (max-width: 767px) {
+    .dashboard {
+        position: relative;
+        margin-left: 0rem!important;
+    }
+}

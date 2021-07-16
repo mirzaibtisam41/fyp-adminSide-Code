@@ -1,0 +1,10 @@
+.navbar-container {
+    display: none;
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
